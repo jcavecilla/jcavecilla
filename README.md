@@ -3,24 +3,15 @@
 
 name('JotaZé') <br>
 pronouns('he/his') <br>
-description =(' ♉ , 🅾️➖ , 🇳🇬  , 🐶 , ✊ ')
+description = ('♉' , '🅾️➖' , '🇳🇬'  , '🐶' , '✊')
 
-#Computational Linguist
+#Computational Linguist (=Python)
 
 ℕ 𝕆 𝕎 𝕃 𝕆 𝔸 𝔻 𝕀 ℕ 𝔾... 
 *Conversational Design*
 
 🏆Hackathon Alexa
 
-
-
-## You can find me mostly on...
-
-<a src="https://www.linkedin.com/in/jc-avecilla/" alt="LinkedIn">
-
-jcavecilla@protonmail.com 
-/
-jcavecilladelah@gmail.com
 
 
 <!-- lista
@@ -32,6 +23,17 @@ things_i_love = []
 
 🚩
 things_i_love_to_hate = ['lentils', 'cristopher_nolan'] 
+
+
+## You can find me mostly on...
+
+<a src="https://www.linkedin.com/in/jc-avecilla/" alt="LinkedIn">
+
+jcavecilla@protonmail.com 
+/
+jcavecilladelah@gmail.com
+
+
 
 
 <!--  
