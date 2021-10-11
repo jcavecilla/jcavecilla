@@ -3,47 +3,36 @@
 
 name('JotaZé') <br>
 pronouns('he/his') <br>
-description(' ♉ , 🅾️➖ , 🇳🇬  , 🐶 ')
+description =(' ♉ , 🅾️➖ , 🇳🇬  , 🐶 , ✊ ')
 
+#Computational Linguist
 
+ℕ 𝕆 𝕎 𝕃 𝕆 𝔸 𝔻 𝕀 ℕ 𝔾... 
+*Conversational Design*
 
 🏆Hackathon Alexa
-
-<!-- ## Looking forward to...
-
-contribute on LingComp
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
--->
 
 
 
 ## You can find me mostly on...
 
-LinkedIn
+<a src="https://www.linkedin.com/in/jc-avecilla/" alt="LinkedIn">
 
 jcavecilla@protonmail.com 
 /
 jcavecilladelah@gmail.com
 
 
-<!-- Diccionario 
+<!-- lista
 
-💝 THINGS I LOVE 💝
-
--
--
-
-🔪 THINGS I LOVE TO HATE 🚩
-
--Lentils
--Cristopher Nolan(+ Hans Zimmer)
+💝
+things_i_love = []
 
 -->
+
+🚩
+things_i_love_to_hate = ['lentils', 'cristopher_nolan'] 
+
 
 <!--  
 
