@@ -1,8 +1,8 @@
 ### 👐 holi, mundo 👐
 
 
-name('JotaZé')
-pronouns('he/his')
+name('JotaZé') <br>
+pronouns('he/his') <br>
 description(' ♉ , 🅾️➖ , 🇳🇬  , 🐶 ')
 
 
