@@ -10,19 +10,19 @@ description = ('♉' , '🅾️➖' , '🇳🇬'  , '🐶' , '✊')
 ℕ 𝕆 𝕎 𝕃 𝕆 𝔸 𝔻 𝕀 ℕ 𝔾... 
 *Conversational Design*
 
-🏆Hackathon Alexa
-
-
+🏆Hackathon Alexa Skill: Impacto Social
 
 <!-- lista
 
 💝
 things_i_love = []
 
+🚩
+things_i_love_to_hate = ['cristoher_nolan']
+
 -->
 
-🚩
-things_i_love_to_hate = ['lentils', 'cristopher_nolan'] 
+
 
 
 ## You can find me mostly on...
