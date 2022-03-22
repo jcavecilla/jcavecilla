@@ -3,14 +3,13 @@
 
 name('JotaZé') <br>
 pronouns('he/his') <br>
-description = ('♉' , '🅾️➖' , '🇳🇬'  , '🐶' , '✊')
+description = ('♉' , '🅾️➖' , '🇳🇬'  , '🐶')
 
-#Computational Linguist (=Python)
+#ComputationalLinguist 
+🏆Hackathon Alexa Skill: Impacto Social
 
 ℕ 𝕆 𝕎 𝕃 𝕆 𝔸 𝔻 𝕀 ℕ 𝔾... 
-*Conversational Design*
 
-🏆Hackathon Alexa Skill: Impacto Social
 
 <!-- lista
 
@@ -18,7 +17,7 @@ description = ('♉' , '🅾️➖' , '🇳🇬'  , '🐶' , '✊')
 things_i_love = []
 
 🚩
-things_i_love_to_hate = ['cristoher_nolan']
+things_i_love_to_hate = []
 
 -->
 
